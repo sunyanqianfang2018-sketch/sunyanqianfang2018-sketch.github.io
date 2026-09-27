@@ -12,6 +12,6 @@ The portfolio includes nine project overviews with overlapping User Research, De
 
 The CV page includes a Print / save PDF control. Email links open the visitor’s email application.
 
-The illustrations are original AI-generated conceptual artwork with fictional people and unbranded objects. They are not internal screenshots or actual participant portraits. Project pages omit internal product names, interfaces, participant details and business data. The research-practice section covers AI Automation for Research and Research Scale Up.
+The illustrations are original AI-generated conceptual artwork with fictional people and unbranded objects. They are not internal screenshots or actual participant portraits. Project pages omit internal product names, interfaces, participant details and business data. The research-practice section covers AI Automation in Research and Research Scale Up.
 
 Project case studies describe methods, contributions and deliverables. Recommendations and future scenarios are distinguished from implemented outcomes. No source decks, research extracts or internal company assets are included in this repository.
