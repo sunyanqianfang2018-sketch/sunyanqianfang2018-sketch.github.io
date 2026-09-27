@@ -21,3 +21,7 @@ h1,h2{letter-spacing:-.04em}h1 em,h2 em{font-style:normal}.hero{padding-top:72px
 
 /* Small visual accents, keeping the project index text-led. */
 @media screen{.project-card .work-copy{display:block}.project-card .work-copy>.text-link{margin-top:0}.editorial-illustration{float:right;width:120px;height:92px;object-fit:contain;margin:0 0 14px 22px;mix-blend-mode:multiply}.project-card .work-copy>.eyebrow{display:block}.project-card .work-copy>.tags{clear:both}.about-portrait{margin:32px 0 0;max-width:390px}.about-portrait img{display:block;width:100%;height:auto;border:1px solid var(--line)}.about-portrait figcaption{font-size:.75rem;color:var(--muted);margin-top:12px;letter-spacing:.02em}@media(max-width:760px){.editorial-illustration{width:94px;height:76px;margin-left:14px}.about-portrait{max-width:360px;margin-top:24px}}}
+
+@media screen{.about-portrait{max-width:340px}.about-portrait img{aspect-ratio:4/5;object-fit:cover;object-position:51% 50%;height:auto}}
+
+@media screen{.portrait-frame{aspect-ratio:4/5;overflow:hidden;border:1px solid var(--line)}.portrait-frame img{width:100%;height:100%;border:0;object-fit:cover;object-position:51% 50%;transform:scale(1.45);transform-origin:51% 10%}}
